@@ -31,11 +31,7 @@ Role        : Future Cloud Engineer ☁️
 
 Location    : Bolivia 🇧🇴
 
-Languages   : Python
-              JavaScript
-              R
-              SQL
-              C++
+Languages   : Python - JavaScript - CSS - HTML - R - SQL - C++ - C# - Java 
 
 Cloud       : AWS (Learning)
 
@@ -43,8 +39,7 @@ Containers  : Docker
 
 IaC         : Terraform (Learning)
 
-Orchestration:
-              Kubernetes (Learning)
+Orchestration: Kubernetes (Learning)
 
 Tools       : Linux
               Git
@@ -60,6 +55,7 @@ Interests   : Cloud Computing
               Data Science
 
 Current Goal:
+
 Become a Cloud Engineer 🚀
 ```
 
@@ -135,16 +131,6 @@ Become a Cloud Engineer 🚀
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yhojan2007&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 
 # 🌐 Connect with Me
 
@@ -154,15 +140,15 @@ Become a Cloud Engineer 🚀
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="TU_TWITTER">
+<a href="https://x.com/YhojanvX">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
-<a href="TU_INSTAGRAM">
+<a href="https://www.instagram.com/yhojan.exe/">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="TU_PORTAFOLIO">
+<a href="https://github.com/repos?q=owner%3A%40me">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
