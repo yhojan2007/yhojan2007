@@ -18,9 +18,7 @@ Currently building real-world projects to become a Cloud Engineer.
 # 🚀 About Me
 
 ```bash
-> neofetch
 
-yhojan@github
 ──────────────────────────────────────
 
 Name        : Yhojan Mendoza
@@ -46,7 +44,6 @@ Tools       : Linux
               GitHub
               Bash
               VS Code
-              RStudio
 
 Interests   : Cloud Computing
               DevOps
@@ -136,7 +133,7 @@ Become a Cloud Engineer 🚀
 
 <p align="center">
 
-<a href="TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/yhojan-mendoza-113b5a423/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
