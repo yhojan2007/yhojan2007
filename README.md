@@ -19,7 +19,6 @@ Currently building real-world projects to become a Cloud Engineer.
 
 ```bash
 
-──────────────────────────────────────
 
 Name        : Yhojan Mendoza
 
